@@ -1,0 +1,42 @@
+{
+  "esquema": 1,
+  "nota": "Última versión publicada de cada aplicación de Grupo Proemivall. Las aplicaciones leen este fichero para avisar de versiones nuevas; nunca se actualizan solas.",
+  "apps": {
+    "shuttlereplay": {
+      "version": "0.5.0",
+      "publicada": "2026-10-22",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/shuttlereplay-v0.5.0",
+      "notas": "Aviso de versiones nuevas. La API local ya no acepta órdenes de páginas web. .NET 10."
+    },
+    "umcontrol": {
+      "version": "1.2",
+      "publicada": "2026-07-24",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/latest",
+      "notas": "Philo Farnsworth. La 1.2.1 (aviso de versiones) está en el código; falta compilar el instalador en Windows."
+    },
+    "umagent": {
+      "version": "1.1",
+      "publicada": "2026-10-22",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/tree/main/agent",
+      "notas": "Aviso de versiones nuevas: copiar umagent.py y updates.py."
+    },
+    "ingestactrl": {
+      "version": "1.3.4",
+      "publicada": "2026-10-22",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/ingestactrl/releases/latest",
+      "notas": "Seguridad y aviso de versiones nuevas. Se despliega con scripts/deploy_vm.sh."
+    },
+    "stage": {
+      "version": "1.1.0",
+      "publicada": "2026-10-22",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/stage",
+      "notas": "Seguridad (Node 22) y aviso de versiones nuevas. Se despliega en la VM media."
+    },
+    "streamctrl": {
+      "version": "13.11",
+      "publicada": "2026-10-22",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/streamctrl/releases/latest",
+      "notas": "Seguridad: sin contraseña por defecto (definir AUTH_PASS antes de desplegar) y aviso de versiones nuevas. Desplegar también updates.py."
+    }
+  }
+}
