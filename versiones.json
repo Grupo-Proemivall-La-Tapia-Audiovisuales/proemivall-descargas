@@ -6,13 +6,13 @@
       "version": "0.5.0",
       "publicada": "2026-10-22",
       "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/shuttlereplay-v0.5.0",
-      "notas": "Aviso de versiones nuevas. La API local ya no acepta órdenes de páginas web. .NET 10."
+      "notas": "Instalador (Setup.exe) y versión portable. Aviso de versiones nuevas; la API local ya no acepta órdenes de páginas web; .NET 10."
     },
     "umcontrol": {
-      "version": "1.2",
-      "publicada": "2026-07-24",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/latest",
-      "notas": "Philo Farnsworth. La 1.2.1 (aviso de versiones) está en el código; falta compilar el instalador en Windows."
+      "version": "1.2.1",
+      "publicada": "2026-10-23",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/umcontrol-v1.2.1",
+      "notas": "Aviso de versiones nuevas y auditoría de seguridad. Instalar cuando no haya directo."
     },
     "umagent": {
       "version": "1.1",
