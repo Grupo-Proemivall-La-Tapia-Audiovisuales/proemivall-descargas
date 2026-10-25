@@ -9,10 +9,10 @@
       "notas": "Instalador (Setup.exe) y versión portable. Aviso de versiones nuevas; la API local ya no acepta órdenes de páginas web; .NET 10."
     },
     "umcontrol": {
-      "version": "1.2.1",
-      "publicada": "2026-10-23",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/umcontrol-v1.2.1",
-      "notas": "Aviso de versiones nuevas y auditoría de seguridad. Instalar cuando no haya directo."
+      "version": "1.2.2",
+      "publicada": "2026-10-25",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/umcontrol-v1.2.2",
+      "notas": "Sustituye a la 1.2.1 (salió sin los arreglos de r42). Arreglos de r42 + aviso de versiones + auditoría de seguridad. Instalar cuando no haya directo."
     },
     "umagent": {
       "version": "1.1",
