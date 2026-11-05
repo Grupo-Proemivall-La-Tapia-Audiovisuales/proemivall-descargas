@@ -21,10 +21,10 @@
       "notas": "Instalador UMAgent-1.2.0-Setup.exe en el repo privado umcontrol (no se publica aquí). Instalación silenciosa conservando el nombre: /VERYSILENT /SUPPRESSMSGBOXES /TASKS=firewall /NAME=<máquina>."
     },
     "ingestactrl": {
-      "version": "1.3.4",
-      "publicada": "2026-10-22",
+      "version": "1.3.5",
+      "publicada": "2026-11-05",
       "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/ingestactrl/releases/latest",
-      "notas": "Seguridad y aviso de versiones nuevas. Se despliega con scripts/deploy_vm.sh."
+      "notas": "Privacidad: la ubicación y el operador de quien emite o ve se calculan con una base local (DB-IP Lite); ya no se envía ninguna IP a ip-api.com. Se despliega con scripts/deploy_vm.sh."
     },
     "stage": {
       "version": "1.1.0",
