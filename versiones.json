@@ -9,16 +9,16 @@
       "notas": "Instalador (Setup.exe) y versión portable. Aviso de versiones nuevas; la API local ya no acepta órdenes de páginas web; .NET 10."
     },
     "umcontrol": {
-      "version": "1.2.2",
-      "publicada": "2026-10-25",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/proemivall-descargas/releases/tag/umcontrol-v1.2.2",
-      "notas": "Sustituye a la 1.2.1 (salió sin los arreglos de r42). Arreglos de r42 + aviso de versiones + auditoría de seguridad. Instalar cuando no haya directo."
+      "version": "1.2.6",
+      "publicada": "2026-10-30",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/v1.2.6",
+      "notas": "Instalador en el repo privado umcontrol (no se publica aquí). Los agentes vuelven solos si Bonjour no abre al encender el NUC. NO instalar en el NUC sin unir antes su trabajo local. Instalar cuando no haya directo."
     },
     "umagent": {
-      "version": "1.1",
-      "publicada": "2026-10-22",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/tree/main/agent",
-      "notas": "Aviso de versiones nuevas: copiar umagent.py y updates.py."
+      "version": "1.2.0",
+      "publicada": "2026-10-30",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/umagent-v1.2.0",
+      "notas": "Instalador UMAgent-1.2.0-Setup.exe en el repo privado umcontrol (no se publica aquí). Instalación silenciosa conservando el nombre: /VERYSILENT /SUPPRESSMSGBOXES /TASKS=firewall /NAME=<máquina>."
     },
     "ingestactrl": {
       "version": "1.3.4",
