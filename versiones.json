@@ -27,10 +27,10 @@
       "notas": "Privacidad: la ubicación y el operador de quien emite o ve se calculan con una base local (DB-IP Lite); ya no se envía ninguna IP a ip-api.com. Se despliega con scripts/deploy_vm.sh."
     },
     "stage": {
-      "version": "1.1.0",
-      "publicada": "2026-10-22",
+      "version": "1.2.0",
+      "publicada": "2026-11-06",
       "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/stage",
-      "notas": "Seguridad (Node 22) y aviso de versiones nuevas. Se despliega en la VM media."
+      "notas": "Interfaz rediseñada (más clara y legible, móvil y iPad) y confirmación en lo que afecta al aire. Se despliega en la VM media."
     },
     "streamctrl": {
       "version": "13.11",
