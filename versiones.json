@@ -9,10 +9,10 @@
       "notas": "Instalador (Setup.exe) y versión portable. Aviso de versiones nuevas; la API local ya no acepta órdenes de páginas web; .NET 10."
     },
     "umcontrol": {
-      "version": "1.2.6",
-      "publicada": "2026-10-30",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/v1.2.6",
-      "notas": "Instalador en el repo privado umcontrol (no se publica aquí). Los agentes vuelven solos si Bonjour no abre al encender el NUC. NO instalar en el NUC sin unir antes su trabajo local. Instalar cuando no haya directo."
+      "version": "1.3.0",
+      "publicada": "2026-11-06",
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/v1.3.0",
+      "notas": "Instalador en el repo privado umcontrol (no se publica aquí). Interfaz nueva con los colores de siempre; el servidor KiloLink decide si el P3 emite. Instalar cuando no haya directo."
     },
     "umagent": {
       "version": "1.2.0",
