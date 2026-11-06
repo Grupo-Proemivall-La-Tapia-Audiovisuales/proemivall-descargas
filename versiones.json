@@ -9,10 +9,10 @@
       "notas": "Instalador (Setup.exe) y versión portable. Aviso de versiones nuevas; la API local ya no acepta órdenes de páginas web; .NET 10."
     },
     "umcontrol": {
-      "version": "1.3.0",
+      "version": "1.3.1",
       "publicada": "2026-11-06",
-      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/v1.3.0",
-      "notas": "Instalador en el repo privado umcontrol (no se publica aquí). Interfaz nueva con los colores de siempre; el servidor KiloLink decide si el P3 emite. Instalar cuando no haya directo."
+      "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/umcontrol/releases/tag/v1.3.1",
+      "notas": "Instalador en el repo privado umcontrol (no se publica aquí). Un Replay grabando ya cuenta como grabar en la tarjeta de vMix, el indicador REC y el borde. Instalar cuando no haya directo."
     },
     "umagent": {
       "version": "1.2.0",
