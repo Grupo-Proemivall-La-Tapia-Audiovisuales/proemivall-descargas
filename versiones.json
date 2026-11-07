@@ -33,10 +33,10 @@
       "notas": "Varios eventos y salas a la vez, y conexión en tiempo real sin acceso anónimo. Se despliega en la VM media."
     },
     "streamctrl": {
-      "version": "13.11",
-      "publicada": "2026-10-22",
+      "version": "13.12",
+      "publicada": "2026-11-07",
       "descarga": "https://github.com/Grupo-Proemivall-La-Tapia-Audiovisuales/streamctrl/releases/latest",
-      "notas": "Seguridad: sin contraseña por defecto (definir AUTH_PASS antes de desplegar) y aviso de versiones nuevas. Desplegar también updates.py."
+      "notas": "Interfaz más legible con los colores de siempre: letra mínima de 12 px, fuentes alojadas en el servidor e índice en Ajustes. Desplegar sin emisión."
     }
   }
 }
